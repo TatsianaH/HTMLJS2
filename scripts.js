@@ -20,4 +20,3 @@ para.appendChild(node);
 let element = document.getElementById("list");
 element.appendChild(para);
 }
-//document.body.style.backgroundColor = 'green';
